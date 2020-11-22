@@ -8,11 +8,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ProyectoMercy">
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.ProyectoMercy.NoActionBar">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".TerminosyCondiones"></activity>
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
