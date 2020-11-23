@@ -22,8 +22,8 @@
 
     <ScrollView
         android:id="@+id/scrollView3"
-        android:layout_width="411dp"
-        android:layout_height="453dp"
+        android:layout_width="416dp"
+        android:layout_height="396dp"
         android:layout_marginTop="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,7 +40,7 @@
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView" />
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac pretium risus. Duis euismod vestibulum leo quis rutrum. Nullam lobortis gravida porta. Maecenas porttitor eu dui at efficitur. Etiam varius, augue id volutpat congue, nisi arcu consequat purus, auctor scelerisque lorem leo nec dolor. Integer non velit vel nisi feugiat porta. Praesent dictum vel mauris sed mollis. Donec vulputate semper malesuada. Praesent pellentesque risus eu ligula consectetur luctus. Maecenas et mauris sollicitudin, auctor nisl id, lobortis felis. Etiam eros tellus, porttitor non sagittis ut, posuere vel est. Morbi aliquam ut felis non lobortis.  Mauris sit amet maximus nibh, in auctor erat. Nullam a suscipit neque. Nunc ut justo aliquet nulla fermentum hendrerit sit amet ut dui. In eu sapien varius, placerat sapien in, vestibulum nunc. Duis eu venenatis lorem, sed efficitur augue. Nunc pharetra commodo turpis, varius pharetra ligula. Quisque placerat, lorem id dignissim pellentesque, odio sapien accumsan tellus, id porttitor nisl nibh eu lectus. Praesent sit amet tellus porta, bibendum ante eget, fringilla sapien.  Praesent vitae augue justo. Sed ultrices elit sit amet est mollis sodales. Proin sit amet quam in felis rutrum eleifend quis eget erat. Etiam placerat fermentum rutrum. Nam vehicula mauris vel ante semper laoreet. Aliquam eu urna semper, viverra leo sed, posuere tortor. Aliquam quis mattis dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique, sapien a rhoncus placerat, lacus est porttitor nunc, sed posuere sem dolor ut risus. Mauris id libero et elit viverra rutrum. Suspendisse potenti. Vivamus nunc tortor, accumsan vel fermentum vitae, tristique sagittis lacus. Quisque commodo purus et justo consequat dictum. Morbi nec mauris velit.  Fusce erat libero, tristique sit amet libero sit amet, porta maximus ipsum. Aliquam pretium euismod odio eu ornare. Aliquam sit amet facilisis lectus. Integer suscipit dapibus purus, ac facilisis tortor vulputate nec. Praesent libero eros, sollicitudin at placerat ut, tempus at mauris. Vivamus fermentum ex nunc, ac pretium nulla placerat nec. In sodales vel orci vitae tristique. Nunc porttitor sollicitudin ipsum ornare volutpat.  Vivamus ac ipsum sapien. Donec bibendum dolor vel purus molestie, at euismod arcu egestas. Nullam ex odio, consequat in massa vel, placerat porttitor purus. Aenean semper elementum dolor sed maximus. Nam quis ligula eget lacus tempor dictum. In hac habitasse platea dictumst. Curabitur accumsan, quam in iaculis accumsan, nulla arcu consequat augue, et elementum ligula elit nec quam. Donec tristique in neque sit amet hendrerit. Morbi accumsan diam eget diam iaculis, eu venenatis quam gravida. Proin gravida nulla vitae lectus gravida fringilla. Sed a massa blandit, sollicitudin enim vel, auctor dui. Nullam facilisis feugiat efficitur. Proin vel ullamcorper felis. Maecenas ut turpis in tellus laoreet viverra et et felis. Sed malesuada eu mauris eget imperdiet." />
         </LinearLayout>
     </ScrollView>
 
@@ -61,6 +61,7 @@
         android:id="@+id/button2"
         android:layout_width="206dp"
         android:layout_height="42dp"
+        android:onClick="aceptar"
         android:text="Aceptar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

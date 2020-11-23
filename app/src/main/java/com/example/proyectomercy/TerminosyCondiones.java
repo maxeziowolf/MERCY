@@ -18,4 +18,9 @@ public class TerminosyCondiones extends AppCompatActivity {
         Intent i =new Intent(this, MainActivity.class);
         startActivity(i);
     }
+
+    public void aceptar(View view){
+        Intent i =new Intent(this, menuPrincipal.class);
+        startActivity(i);
+    }
 }
