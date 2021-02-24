@@ -14,6 +14,24 @@
               <option name="theme" value="Theme.PlatziMusic" />
               <option name="uiMode" value="NORMAL" />
             </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="30" />
+              <option name="deviceId" value="pixel" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="LANDSCAPE" />
+              <option name="theme" value="Theme.PlatziMusic" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="30" />
+              <option name="deviceId" value="pixel" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="Theme.PlatziMusic" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
           </list>
         </option>
         <option name="firstTimeOpen" value="false" />
